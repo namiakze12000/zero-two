@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://ibb.co/wQ4GK21"><img src="https://user-images.githubusercontent.com/77143046/143940049-de5a0b73-0a67-408f-9710-60362feaba75.jpg" alt="whatsapp-botto-rin-init" border="0"></a>
+<a href="https://ibb.co/wQ4GK21"><img src="https://wallpaperaccess.com/full/6750675.jpg" alt="whatsapp-botto-rin-init" border="0"></a>
 
-# **RIN : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
+# **ZERO TWO : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES BY AKASHI**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/rin/badge)](https://www.codefactor.io/repository/github/oreki-san/rin)
 
