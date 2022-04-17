@@ -40,7 +40,7 @@ export default class Command extends BaseCommand {
             🤍 Konichiwa senpai 🤍
             ╭─「(づ￣ 3￣)づ」
             │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-            │⋊ ɴᴀᴍᴇ: ᖇᎥᑎ
+            │⋊ ɴᴀᴍᴇ: zero two
             │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
             │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
             ╰────────────┈平和                            \n\n`
@@ -59,131 +59,131 @@ export default class Command extends BaseCommand {
     //         const state = await this.client.DB.disabledcommands.findOne({ command: command.config.command })
 
 const weeb = [
-    {title: 'anime', rowId:"rowid1"},
-    {title: 'animequote', rowId:"rowid1"},
-    {title: 'animechar', rowId:"rowid2"},
-    {title: 'genshincharacter', rowId:"rowid2"},
-    {title: 'husbando', rowId:"rowid2"},
-    {title: 'loli', rowId:"rowid2"},
-    {title: 'manga', rowId:"rowid2"},
-    {title: 'pokemon', rowId:"rowid2"},
-    {title: 'rpaper', rowId:"rowid2"},
-    {title: 'vtuber', rowId:"rowid2"},
-    {title: 'waifu', rowId:"rowid2"},
-    {title: 'ameme', rowId:"rowid2"},
-    {title: 'character', rowId:"rowid2"},
-    {title: 'crossplay', rowId:"rowid2"},
-    {title: 'haigusa', rowId:"rowid2"},
-    {title: 'recommend', rowId:"rowid2"},
-    {title: 'sauce', rowId:"rowid2"},
-    {title: 'wallpaper', rowId:"rowid2"}
+    {title: '✨anime', rowId:"rowid1"},
+    {title: '✨animequote', rowId:"rowid1"},
+    {title: '✨animechar', rowId:"rowid2"},
+    {title: '✨genshincharacter', rowId:"rowid2"},
+    {title: '✨husbando', rowId:"rowid2"},
+    {title: '✨loli', rowId:"rowid2"},
+    {title: '✨manga', rowId:"rowid2"},
+    {title: '✨pokemon', rowId:"rowid2"},
+    {title: '✨rpaper', rowId:"rowid2"},
+    {title: '✨vtuber', rowId:"rowid2"},
+    {title: '✨waifu', rowId:"rowid2"},
+    {title: '✨ameme', rowId:"rowid2"},
+    {title: '✨character', rowId:"rowid2"},
+    {title: '✨crossplay', rowId:"rowid2"},
+    {title: '✨haigusa', rowId:"rowid2"},
+    {title: '✨recommend', rowId:"rowid2"},
+    {title: '✨sauce', rowId:"rowid2"},
+    {title: '✨wallpaper', rowId:"rowid2"}
    ]
    const bots = [
-    {title: 'entropy', rowId:"rowid1"},
-    {title: 'guide', rowId:"rowid2"},
-    {title: 'infinity', rowId:"rowid2"},
-    {title: 'kaoi', rowId:"rowid2"},
-    {title: 'void', rowId:"rowid2"}
+    {title: '✨entropy', rowId:"rowid1"},
+    {title: '✨guide', rowId:"rowid2"},
+    {title: '✨infinity', rowId:"rowid2"},
+    {title: '✨kaoi', rowId:"rowid2"},
+    {title: '✨void', rowId:"rowid2"}
    ]
    const config = [
     {title: 'disable', rowId:"rowid1"},
     {title: 'enable', rowId:"rowid2"}
    ]
    const utils = [
-    {title: 'blur', rowId:"rowid1"},
-    {title: 'kitten', rowId:"rowid1"},
-    {title: 'sticker', rowId:"rowid1"},
-    {title: 'subred', rowId:"rowid1"},
-    {title: 'getgif', rowId:"rowid1"},
-    {title: 'screenshot', rowId:"rowid1"},
-    {title: 'steal', rowId:"rowid1"},
-    {title: 'translate', rowId:"rowid1"},
-    {title: 'wikipedia', rowId:"rowid1"}
+    {title: '🚀blur', rowId:"rowid1"},
+    {title: '🚀kitten', rowId:"rowid1"},
+    {title: '🚀sticker', rowId:"rowid1"},
+    {title: '🚀subred', rowId:"rowid1"},
+    {title: '🚀getgif', rowId:"rowid1"},
+    {title: '🚀screenshot', rowId:"rowid1"},
+    {title: '🚀steal', rowId:"rowid1"},
+    {title: '🚀translate', rowId:"rowid1"},
+    {title: '🚀wikipedia', rowId:"rowid1"}
    ]
    const dev = [
-    {title: 'ban', rowId:"rowid1"},
-    {title: 'eval', rowId:"rowid2"},
-    {title: 'join', rowId:"rowid2"},
-    {title: 'leave', rowId:"rowid2"},
-    {title: 'status', rowId:"rowid2"},
-    {title: 'unban', rowId:"rowid2"}
+    {title: '✨ban', rowId:"rowid1"},
+    {title: '✨eval', rowId:"rowid2"},
+    {title: '✨join', rowId:"rowid2"},
+    {title: '✨leave', rowId:"rowid2"},
+    {title: '✨status', rowId:"rowid2"},
+    {title: '✨unban', rowId:"rowid2"}
    ]
    const misc = [
-    {title: 'retrieve', rowId:"rowid1"},
-    {title: 'hi', rowId:"rowid1"},
-    {title: 'rin', rowId:"rowid1"},
+    {title: '✨retrieve', rowId:"rowid1"},
+    {title: '✨✨hi', rowId:"rowid1"},
+    {title: '✨zero two', rowId:"rowid1"},
    ]
    const education = [
-    {title: 'calculator', rowId:"rowid1"},
-    {title: 'covid', rowId:"rowid1"},
-    {title: 'define', rowId:"rowid1"},
-    {title: 'elements', rowId:"rowid2"},
-    {title: 'github', rowId:"rowid2"},
-    {title: 'urbandictionary', rowId:"rowid2"},
-    {title: 'weather', rowId:"rowid2"},
+    {title: '✨calculator', rowId:"rowid1"},
+    {title: '✨covid', rowId:"rowid1"},
+    {title: '✨define', rowId:"rowid1"},
+    {title: '✨✨✨elements', rowId:"rowid2"},
+    {title: '✨✨github', rowId:"rowid2"},
+    {title: '✨urbandictionary', rowId:"rowid2"},
+    {title: '✨✨✨weather', rowId:"rowid2"},
    ]
    const fun = [
-    {title: 'chess', rowId:"rowid1"},
-    {title: 'quote', rowId:"rowid2"},
-    {title: 'react', rowId:"rowid2"},
-    {title: 'trigger', rowId:"rowid2"},
-    {title: 'truth', rowId:"rowid2"},
-    {title: 'chat', rowId:"rowid2"},
-    {title: 'dare', rowId:"rowid2"},
-    {title: 'fact', rowId:"rowid2"},
-    {title: 'safejoke', rowId:"rowid2"},
-    {title: 'ship', rowId:"rowid2"},
-    {title: 'trivia', rowId:"rowid2"}]
+    {title: '✨chess', rowId:"rowid1"},
+    {title: '✨quote', rowId:"rowid2"},
+    {title: '✨react', rowId:"rowid2"},
+    {title: '✨trigger', rowId:"rowid2"},
+    {title: '✨truth', rowId:"rowid2"},
+    {title: '✨chat', rowId:"rowid2"},
+    {title: '✨dare', rowId:"rowid2"},
+    {title: '✨fact', rowId:"rowid2"},
+    {title: '✨safejoke', rowId:"rowid2"},
+    {title: '✨ship', rowId:"rowid2"},
+    {title: '✨trivia', rowId:"rowid2"}]
    const general = [
-       {title: 'admins', rowId:"rowid2"},
-       {title: 'everyone', rowId:"rowid2"},
-       {title: 'help', rowId:"rowid2"},
-       {title: 'mods', rowId:"rowid2"},
-       {title: 'profile', rowId:"rowid2"},
-       {title: 'rank', rowId:"rowid1"},
-       {title: 'xp', rowId:"rowid2"},
-       {title: 'invitelink', rowId:"rowid2"},
-       {title: 'delete', rowId:"rowid2"}
+       {title: '✨admins', rowId:"rowid2"},
+       {title: '✨everyone', rowId:"rowid2"},
+       {title: '✨help', rowId:"rowid2"},
+       {title: '✨mods', rowId:"rowid2"},
+       {title: '✨profile', rowId:"rowid2"},
+       {title: '✨rank', rowId:"rowid1"},
+       {title: '✨xp', rowId:"rowid2"},
+       {title: '✨invitelink', rowId:"rowid2"},
+       {title: '✨delete', rowId:"rowid2"}
     ]
     const media = [
-        {title: 'play', rowId:"rowid2"},
-        {title: 'spotify', rowId:"rowid2"},
-        {title: 'take', rowId:"rowid1"},
-        {title: 'ytaudio', rowId:"rowid2"},
-        {title: 'ytsearch', rowId:"rowid2"},
-        {title: 'ytvideo', rowId:"rowid2"},
-        {title: 'google', rowId:"rowid2"},
-        {title: 'lyrics', rowId:"rowid2"},
-        {title: 'pinterest', rowId:"rowid2"}
+        {title: '✨play', rowId:"rowid2"},
+        {title: '✨spotify', rowId:"rowid2"},
+        {title: '✨take', rowId:"rowid1"},
+        {title: '✨ytaudio', rowId:"rowid2"},
+        {title: '✨ytsearch', rowId:"rowid2"},
+        {title: '✨ytvideo', rowId:"rowid2"},
+        {title: '✨google', rowId:"rowid2"},
+        {title: '✨lyrics', rowId:"rowid2"},
+        {title: '✨pinterest', rowId:"rowid2"}
    ]
    const nsfw = [
-    {title: 'anal', rowId:"rowid2"},
-    {title: 'blowjob', rowId:"rowid2"},
-    {title: 'nsfwdoujin', rowId:"rowid1"},
-    {title: 'nsfwloli', rowId:"rowid2"},
-    {title: 'nsfwpaper', rowId:"rowid2"},
-    {title: 'thighs', rowId:"rowid2"},
-    {title: 'hentai', rowId:"rowid2"},
-    {title: 'maid', rowId:"rowid2"},
-    {title: 'masturbation', rowId:"rowid2"},
-    {title: 'nsfw-waifu', rowId:"rowid2"},
-    {title: 'nsfwjoke', rowId:"rowid2"},
-    {title: 'nsfw-neko', rowId:"rowid2"},
-    {title: 'pussy', rowId:"rowid2"},
-    {title: 'trap', rowId:"rowid2"},
+    {title: '🚫anal', rowId:"rowid2"},
+    {title: '🚫blowjob', rowId:"rowid2"},
+    {title: '🚫nsfwdoujin', rowId:"rowid1"},
+    {title: '🚫nsfwloli', rowId:"rowid2"},
+    {title: '🚫nsfwpaper', rowId:"rowid2"},
+    {title: '🚫thighs', rowId:"rowid2"},
+    {title: '🚫hentai', rowId:"rowid2"},
+    {title: '🚫maid', rowId:"rowid2"},
+    {title: '🚫masturbation', rowId:"rowid2"},
+    {title: '🚫nsfw-waifu', rowId:"rowid2"},
+    {title: '🚫nsfwjoke', rowId:"rowid2"},
+    {title: '🚫nsfw-neko', rowId:"rowid2"},
+    {title: '🚫pussy', rowId:"rowid2"},
+    {title: '🚫trap', rowId:"rowid2"},
 ]
    const moderation = [
-    {title: 'activate', rowId:"rowid1"},
-    {title: 'deactivate', rowId:"rowid2"},
-    {title: 'demote', rowId:"rowid2"},
-    {title: 'groupchange', rowId:"rowid2"},
-    {title: 'promote', rowId:"rowid2"},
-    {title: 'purge', rowId:"rowid2"},
-    {title: 'remove', rowId:"rowid2"},
-    {title: 'close', rowId:"rowid2"},
-    {title: 'open', rowId:"rowid2"},
-    {title: 'revoke', rowId:"rowid2"},
-    {title: 'ppcouple', rowId:"rowid2"}]
+    {title: '🚫activate', rowId:"rowid1"},
+    {title: '🚫deactivate', rowId:"rowid2"},
+    {title: '🚫demote', rowId:"rowid2"},
+    {title: '🚫groupchange', rowId:"rowid2"},
+    {title: '🚫promote', rowId:"rowid2"},
+    {title: '🚫purge', rowId:"rowid2"},
+    {title: '🚫remove', rowId:"rowid2"},
+    {title: '🚫close', rowId:"rowid2"},
+    {title: '🚫open', rowId:"rowid2"},
+    {title: '🚫revoke', rowId:"rowid2"},
+    {title: '🚫ppcouple', rowId:"rowid2"}]
 
    const sections = [
                      {title: "fun 🚀", rows: fun },
@@ -243,9 +243,9 @@ const txt = '\n' +
     '• ```calculator, covid, define, elements, github, urbandictionary, weather```\n' +
     '\n' +
     ' \n' +
-    ' ──❅┈[ ISHTAR ᗷᗝ丅 ]┈❅───\n' +
+    ' ──❅┈[ zero two ᗷᗝ丅 ]┈❅───\n' +
     '┌────────────┈❅\n' +
-    '│   🧨 ᖇᎥᑎ\n'  +
+    '│   🧨 zero two\n'  +
     '│   ©️ Synthesized Infinity Botto\n' +
     '└────────────┈⁂\n' +
     '❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅\n'             +
